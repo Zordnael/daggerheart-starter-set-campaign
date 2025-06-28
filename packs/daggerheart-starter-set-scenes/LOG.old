@@ -1,0 +1,8 @@
+2025/06/26-22:15:42.628 6d48 Recovering log #12
+2025/06/26-22:15:42.634 6d48 Delete type=0 #12
+2025/06/26-22:15:42.634 6d48 Delete type=3 #10
+2025/06/26-22:15:55.474 7a60 Level-0 table #18: started
+2025/06/26-22:15:55.476 7a60 Level-0 table #18: 0 bytes OK
+2025/06/26-22:15:55.479 7a60 Delete type=0 #16
+2025/06/26-22:15:55.479 7a60 Manual compaction at level-0 from '!scenes!7G1iosRSUZ084ZgF' @ 72057594037927935 : 1 .. '!scenes.tokens.delta!V5SkRa7kBFaflm6Q.xJibmUlT8Ocsr2LM.8Wl68DaZvyWPzLbX' @ 0 : 0; will stop at (end)
+2025/06/26-22:15:55.479 7a60 Manual compaction at level-1 from '!scenes!7G1iosRSUZ084ZgF' @ 72057594037927935 : 1 .. '!scenes.tokens.delta!V5SkRa7kBFaflm6Q.xJibmUlT8Ocsr2LM.8Wl68DaZvyWPzLbX' @ 0 : 0; will stop at (end)

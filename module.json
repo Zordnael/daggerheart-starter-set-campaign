@@ -1,0 +1,69 @@
+{
+  "id": "daggerheart-starter-set-campaign",
+  "title": "Daggerheart Starter Set Campaign",
+  "version": "1.0.0",
+  "url": "",
+  "license": "LICENSE.txt",
+  "compatibility": {
+    "minimum": "13",
+    "verified": "13"
+  },
+  "packs": [
+    {
+      "name": "daggerheart-starter-set-scenes",
+      "label": "Daggerheart Starter Set Scenes",
+      "path": "packs/daggerheart-starter-set-scenes",
+      "type": "Scene",
+      "system": "daggerheart",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "daggerheart-starter-set-actors",
+      "label": "Daggerheart Starter Set Actors",
+      "path": "packs/daggerheart-starter-set-actors",
+      "type": "Actor",
+      "system": "daggerheart",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "daggerheart-starter-set-loadout",
+      "label": "Daggerheart Starter Set Loadout",
+      "path": "packs/daggerheart-starter-set-loadout",
+      "type": "Item",
+      "system": "daggerheart",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    }
+  ],
+  "description": "<p>This module contains the needed actors, scenes and loadout to play daggerheart starter set campaing.</p>",
+  "authors": [
+    {
+      "name": "Zordnael",
+      "flags": {}
+    }
+  ],
+  "relationships": {
+    "systems": [
+      {
+        "id": "daggerheart",
+        "type": "system",
+        "compatibility": {}
+      }
+    ],
+    "recommends": [
+      {
+        "id": "fxmaster",
+        "type": "module",
+        "compatibility": {}
+      }
+    ]
+  }
+}
