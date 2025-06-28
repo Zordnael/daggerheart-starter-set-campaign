@@ -5,7 +5,7 @@
   "url": "",
   "license": "LICENSE.txt",
   "manifest": "https://raw.githubusercontent.com/Zordnael/daggerheart-starter-set-campaign/refs/heads/main/module.json",
-  "download": "https://github.com/Zordnael/daggerheart-starter-set-campaign/raw/refs/heads/main/1.0.0.zip",
+  "download": "https://github.com/Zordnael/daggerheart-starter-set-campaign/archive/refs/tags/v1.0.0.zip",
   "compatibility": {
     "minimum": "13",
     "verified": "13"
