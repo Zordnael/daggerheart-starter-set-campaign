@@ -1,15 +1,15 @@
-2025/06/28-13:24:19.519 4034 Recovering log #18
-2025/06/28-13:24:19.524 4034 Delete type=0 #18
-2025/06/28-13:24:19.524 4034 Delete type=3 #16
-2025/06/28-13:26:15.938 3478 Level-0 table #24: started
-2025/06/28-13:26:15.945 3478 Level-0 table #24: 285626 bytes OK
-2025/06/28-13:26:15.948 3478 Delete type=0 #22
-2025/06/28-13:26:15.957 3478 Manual compaction at level-0 from '!folders!1HXLMcY5XkhqQh2U' @ 72057594037927935 : 1 .. '!items!ziUaYodX2oXG0TZk' @ 0 : 0; will stop at (end)
-2025/06/28-13:26:15.957 3478 Manual compaction at level-1 from '!folders!1HXLMcY5XkhqQh2U' @ 72057594037927935 : 1 .. '!items!ziUaYodX2oXG0TZk' @ 0 : 0; will stop at '!items!zwa7igoNIVB5u8jR' @ 1178 : 1
-2025/06/28-13:26:15.957 3478 Compacting 1@1 + 1@2 files
-2025/06/28-13:26:15.964 3478 Generated table #25@1: 329 keys, 144549 bytes
-2025/06/28-13:26:15.964 3478 Compacted 1@1 + 1@2 files => 144549 bytes
-2025/06/28-13:26:15.968 3478 compacted to: files[ 0 0 1 0 0 0 0 ]
-2025/06/28-13:26:15.968 3478 Delete type=2 #20
-2025/06/28-13:26:15.968 3478 Delete type=2 #24
-2025/06/28-13:26:15.977 3478 Manual compaction at level-1 from '!items!zwa7igoNIVB5u8jR' @ 1178 : 1 .. '!items!ziUaYodX2oXG0TZk' @ 0 : 0; will stop at (end)
+2025/06/29-12:38:48.391 c600 Recovering log #27
+2025/06/29-12:38:48.401 c600 Delete type=0 #27
+2025/06/29-12:38:48.401 c600 Delete type=3 #26
+2025/06/29-13:57:29.443 26f0 Level-0 table #31: started
+2025/06/29-13:57:29.451 26f0 Level-0 table #31: 131414 bytes OK
+2025/06/29-13:57:29.454 26f0 Delete type=0 #29
+2025/06/29-13:57:29.493 26f0 Manual compaction at level-0 from '!folders!1HXLMcY5XkhqQh2U' @ 72057594037927935 : 1 .. '!items!ziUaYodX2oXG0TZk' @ 0 : 0; will stop at (end)
+2025/06/29-13:57:29.493 26f0 Manual compaction at level-1 from '!folders!1HXLMcY5XkhqQh2U' @ 72057594037927935 : 1 .. '!items!ziUaYodX2oXG0TZk' @ 0 : 0; will stop at '!items!ziUaYodX2oXG0TZk' @ 2163 : 1
+2025/06/29-13:57:29.493 26f0 Compacting 1@1 + 1@2 files
+2025/06/29-13:57:29.500 26f0 Generated table #32@1: 329 keys, 142148 bytes
+2025/06/29-13:57:29.500 26f0 Compacted 1@1 + 1@2 files => 142148 bytes
+2025/06/29-13:57:29.503 26f0 compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/06/29-13:57:29.503 26f0 Delete type=2 #25
+2025/06/29-13:57:29.503 26f0 Delete type=2 #31
+2025/06/29-13:57:29.528 26f0 Manual compaction at level-1 from '!items!ziUaYodX2oXG0TZk' @ 2163 : 1 .. '!items!ziUaYodX2oXG0TZk' @ 0 : 0; will stop at (end)

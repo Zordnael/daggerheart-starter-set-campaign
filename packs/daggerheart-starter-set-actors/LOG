@@ -1,8 +1,15 @@
-2025/06/28-13:24:19.500 8708 Recovering log #18
-2025/06/28-13:24:19.506 8708 Delete type=0 #18
-2025/06/28-13:24:19.506 8708 Delete type=3 #16
-2025/06/28-13:26:15.927 3478 Level-0 table #23: started
-2025/06/28-13:26:15.927 3478 Level-0 table #23: 0 bytes OK
-2025/06/28-13:26:15.929 3478 Delete type=0 #21
-2025/06/28-13:26:15.936 3478 Manual compaction at level-0 from '!actors!27Q13fMG5VXb1xTQ' @ 72057594037927935 : 1 .. '!folders!t7Kkjtwt9hlBvmj0' @ 0 : 0; will stop at (end)
-2025/06/28-13:26:15.936 3478 Manual compaction at level-1 from '!actors!27Q13fMG5VXb1xTQ' @ 72057594037927935 : 1 .. '!folders!t7Kkjtwt9hlBvmj0' @ 0 : 0; will stop at (end)
+2025/06/29-12:38:48.368 54bc Recovering log #25
+2025/06/29-12:38:48.374 54bc Delete type=0 #25
+2025/06/29-12:38:48.374 54bc Delete type=3 #24
+2025/06/29-13:57:29.454 26f0 Level-0 table #29: started
+2025/06/29-13:57:29.473 26f0 Level-0 table #29: 60670 bytes OK
+2025/06/29-13:57:29.476 26f0 Delete type=0 #27
+2025/06/29-13:57:29.493 26f0 Manual compaction at level-0 from '!actors!27Q13fMG5VXb1xTQ' @ 72057594037927935 : 1 .. '!folders!t7Kkjtwt9hlBvmj0' @ 0 : 0; will stop at (end)
+2025/06/29-13:57:29.504 26f0 Manual compaction at level-1 from '!actors!27Q13fMG5VXb1xTQ' @ 72057594037927935 : 1 .. '!folders!t7Kkjtwt9hlBvmj0' @ 0 : 0; will stop at '!folders!t7Kkjtwt9hlBvmj0' @ 56 : 1
+2025/06/29-13:57:29.504 26f0 Compacting 1@1 + 1@2 files
+2025/06/29-13:57:29.519 26f0 Generated table #30@1: 63 keys, 56870 bytes
+2025/06/29-13:57:29.519 26f0 Compacted 1@1 + 1@2 files => 56870 bytes
+2025/06/29-13:57:29.521 26f0 compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/06/29-13:57:29.522 26f0 Delete type=2 #5
+2025/06/29-13:57:29.522 26f0 Delete type=2 #29
+2025/06/29-13:57:29.528 26f0 Manual compaction at level-1 from '!folders!t7Kkjtwt9hlBvmj0' @ 56 : 1 .. '!folders!t7Kkjtwt9hlBvmj0' @ 0 : 0; will stop at (end)

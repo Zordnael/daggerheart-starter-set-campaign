@@ -1,10 +1,10 @@
 {
   "id": "daggerheart-starter-set-campaign",
   "title": "Daggerheart Starter Set Campaign",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "license": "LICENSE.txt",
   "manifest": "https://raw.githubusercontent.com/Zordnael/daggerheart-starter-set-campaign/refs/heads/main/module.json",
-  "download": "https://github.com/Zordnael/daggerheart-starter-set-campaign/archive/refs/tags/v1.0.1.zip",
+  "download": "https://github.com/Zordnael/daggerheart-starter-set-campaign/archive/refs/tags/v1.0.2.zip",
   "compatibility": {
     "minimum": "13",
     "verified": "13"
